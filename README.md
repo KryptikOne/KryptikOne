@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello Friend 👋
+
+In my 12 years as a developer, This account has seen little action 🦗
+I hope to change that more this year, stay tuned for some major input..
+
+Thanks for stopping by! 🤙🏽
 
 <!--
 **KryptikOne/KryptikOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
