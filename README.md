@@ -1,7 +1,6 @@
-## Hello Friend 👋
+## Hello Friend 👋🏽
 
-In my 12 years as a developer, This account has seen little action 🦗
-I hope to change that more this year, stay tuned for some major input..
+In my 12 years as a developer, this account has seen little to no real action 🦗 I hope to change that more this year, stay tuned..
 
 Thanks for stopping by! 🤙🏽
 
