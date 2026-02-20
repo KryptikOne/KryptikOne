@@ -4,6 +4,8 @@ In my 12 years as a developer, this account has seen little to no real action �
 
 Thanks for stopping by! 🤙🏽
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KryptikOne&theme=blue_green)
+
 <!--
 **KryptikOne/KryptikOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
