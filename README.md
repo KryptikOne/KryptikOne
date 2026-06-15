@@ -1,22 +1,9 @@
 ## Hello Friend 👋🏽
 
-In my 12 years as a developer, this account has seen little to no real action 🦗 I hope to change that more this year, stay tuned..
+I'm an experienced software developer who loves to just.. build.
+
+I like the whole process: chasing down an idea, figuring out the shape of the problem, writing the first awful v1, and refining it until it feels solid. After 14 years in software, that part still has not gotten old.
+
+I'm using this profile to share more of what I build, what I learn, and what I'm exploring next.
 
 Thanks for stopping by! 🤙🏽
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KryptikOne&theme=blue_green)
-
-<!--
-**KryptikOne/KryptikOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
